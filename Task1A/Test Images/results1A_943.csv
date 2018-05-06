@@ -1,0 +1,15 @@
+test1.png,blue-triangle,red-circle,red-circle,red-circle,orange-square,orange-square,orange-square
+test2.png,blue-square,blue-pentagon,red-rectangle,red-circle,green-pentagon
+test3.png,blue-circle,blue-square,red-pentagon,red-pentagon,green-triangle
+test4.png,blue-circle,blue-pentagon,blue-square,red-triangle,red-square
+test5.png,blue-square,red-triangle,green-rectangle,green-circle
+output1.png,blue-triangle,orange-square,orange-square,orange-square
+output2.png,blue-square,blue-pentagon,green-pentagon
+output3.png,blue-circle,blue-square,green-triangle
+output4.png,blue-circle,blue-pentagon,blue-square
+output5.png,blue-square,green-rectangle,green-circle
+test1.png,blue-triangle,orange-square,orange-square,orange-square
+test2.png,blue-square,blue-pentagon,green-pentagon
+test3.png,blue-circle,blue-square,green-triangle
+test4.png,blue-circle,blue-pentagon,blue-square
+test5.png,blue-square,green-rectangle,green-circle

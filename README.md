@@ -9,6 +9,6 @@
      
 ### 2.eYRC-HB#943 Task4
     2.1. eYRC 943: It contains all the files for the traversal of the FIREBIRD V robot. 
-    2.2. fruitDetectionTASK4.py: I/t contains the final code of Digital Imae Processing for fruit recognition.
+    2.2. fruitDetectionTASK4.py: It contains the final code of Digital Imae Processing for fruit recognition.
      
      
